@@ -19,9 +19,7 @@ This is little app that connects slides in carousel and markers inside google ma
 - Open in your web browser index.html file.
 
 <br>
-to see list of commits please enter [here] (https://github.com/MariuszSzlachta/Modul-10) and type:
-- git checkout 10.4
-- git log
+to see list of commits please enter[Here](https://github.com/MariuszSzlachta/Modul-10),
 <i>this is just 10.4 branch taken out from Modul-10 repository</i>
 
 
